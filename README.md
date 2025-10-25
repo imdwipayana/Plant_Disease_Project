@@ -1,4 +1,4 @@
-# Plant_Disease_Project
+# Plant Diseases Classification Projects
 
 Plant disease can be recognised from the appearance of its infected leaves. For that reason, in this project, the images of leaves from bell pepper, tomato and potato will be used to identify whether the plant is health or infected. The challenges in this projects are:
 1. The dataset is imbalance where one target only consists of 152 images meanwhile the other has 3202 images.
