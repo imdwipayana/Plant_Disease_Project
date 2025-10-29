@@ -21,4 +21,5 @@ Projects with PyTorch:
 3. [coming soon]()
 
 Project for deployment:
-1.[Tomato Disease Detection]()
+1. [Tomato Disease Detection]()
+2. [coming soon]()
