@@ -21,5 +21,5 @@ Projects with PyTorch:
 3. [coming soon]()
 
 Project for deployment:
-1. [Tomato Disease Detection]()
+1. [Tomato Disease Detection](https://github.com/imdwipayana/Plant_Disease_Project/blob/main/tomato_disease_detection.ipynb)
 2. [coming soon]()
