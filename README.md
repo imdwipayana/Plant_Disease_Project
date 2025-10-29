@@ -19,3 +19,7 @@ Projects with PyTorch:
 1. [Pepper, tomato and potato disease classification with PyTorch](https://github.com/imdwipayana/Plant_Disease_Project/blob/main/plant_disease_classification_with_PyTorch.ipynb)
 2. [Pepper, tomato and potato disease classification using pre trained model with PyTorch](https://github.com/imdwipayana/Plant_Disease_Project/blob/main/all_disease_classification_preTrained_PyTorch.ipynb)
 3. [coming soon]()
+
+Project for deployment:
+1. [Tomato Disease Detection]()
+2. [coming soon]()
